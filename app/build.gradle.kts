@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "ch.petrce.counter"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ch.petrce.counter"
